@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 Developer B
+=======
+Developer A
+>>>>>>> 9fabe23043fb5e5c694ff79f854f5508daca2442
